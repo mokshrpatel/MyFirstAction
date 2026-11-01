@@ -17,4 +17,4 @@ jobs:
           python-version: '3.12'
 
       - name: Execute Python Program
-        run: python hello.py
+        run: python main.py
